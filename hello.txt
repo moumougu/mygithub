@@ -7,3 +7,6 @@ modify by hh
 modify by hh 4th
 push to github
 test update
+update 
+deal with conflict2
+
